@@ -49,5 +49,4 @@ Potential improvements include:
 
 ---
 
-*This repository and README were generated based on the attached project report*
 
